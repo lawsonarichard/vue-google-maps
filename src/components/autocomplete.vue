@@ -1,5 +1,6 @@
 <template>
   <input ref="input" v-bind="$attrs" v-on="$attrs" />
+  <H1>Hello</H1>
 </template>
 
 <script>
